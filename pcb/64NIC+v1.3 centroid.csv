@@ -1,0 +1,48 @@
+Screaming Circuits SMD component position file.
+
+Centroid Data for pc board: "64NIC+v1.3.brd" as of: 12/6/2015 11:53:02 PM
+Measurements are in inches. Comma delimited
+Only surface mount components included
+
+RefDes,Layer,LocationX,LocationY,Rotation
+1,Bottom,0.350,1.100,180
+2,Bottom,0.350,1.000,180
+4,Bottom,0.350,0.900,180
+8,Bottom,0.350,0.800,180
+C1,Bottom,1.788,2.638,180
+C2,Bottom,1.825,3.100,180
+C3,Bottom,1.188,3.000,90
+C4,Bottom,0.175,0.525,0
+C5,Bottom,0.988,1.950,90
+C6,Bottom,0.675,1.350,180
+C7,Bottom,0.675,1.438,180
+C8,Bottom,0.900,1.950,90
+IC1,Bottom,1.488,2.150,270
+IC3,Bottom,0.600,1.675,90
+IC4,Bottom,0.600,2.075,90
+IC5,Bottom,0.750,0.975,270
+JP2,Top,0.800,0.275,90
+JP3,Bottom,0.200,0.275,90
+JP4,Top,0.650,1.387,90
+JP5,Top,0.412,1.650,90
+R1,Bottom,1.087,2.013,90
+R2,Bottom,1.887,1.800,180
+R3,Bottom,1.188,2.750,90
+R4,Bottom,1.062,3.050,180
+R5,Bottom,1.062,2.950,180
+R6,Bottom,1.175,2.513,90
+R7,Bottom,1.788,2.550,180
+R8,Bottom,0.500,2.525,180
+R9,Bottom,0.175,0.438,180
+R10,Bottom,0.850,1.525,0
+R11,Bottom,0.500,2.725,180
+R12,Bottom,0.500,2.925,180
+R13,Bottom,0.500,2.825,180
+R14,Bottom,0.150,1.200,0
+R15,Bottom,0.500,2.425,0
+R16,Bottom,0.150,1.100,0
+R17,Bottom,0.150,1.000,0
+R18,Bottom,0.150,0.900,0
+R19,Bottom,0.500,2.325,180
+SV1,Top,1.075,0.050,0
+U$1,Bottom,1.462,2.875,90
