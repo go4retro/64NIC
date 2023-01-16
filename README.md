@@ -25,29 +25,18 @@ Technical Features include:
 
 The 64NIC+ began as a fundraiser for the Cincinnati Commodore  Computer Club (C4), who felt a low-cost basic Ethernet cartridge would  be welcomed by the community. RETRO Innovations designed the cartridge, incorporating Eric Pratt’s 64NIC and Till Harbaum’s NET64 designs. A  ROM socket and associated configuration switches were added to maximize  use of PCB space.
 
-## Options
-
-64NIC+ comes in 4 variations:
-
-1. base unit without case
-2. base unit with case
-3. unit with ROM-selecting rotary switch and no case
-4. unit with ROM-selecting rotary switch and case
-
-Network operation remains the same in all variants.
-
 ## Requirements
 
 - 10Mbit capable Ethernet connection
 - Ethernet cable
 - C64/64C/C128/C128D/C128DCR/SX64
-- 64NIC+, RR-NET, or NET64 compatible software (the product does not come with software on disk). A [software disk image](http://www.go4retro.com/downloads/64nic+/c64nic.d64) with software is available from the Cincinnati Commodore Computer Club web site
+- 64NIC+, RR-NET, or NET64 compatible software (the product does not come with software on disk). A [software disk image](https://github.com/go4retro/64NIC/blob/master/dist/c64nic.d64) with software is available from the Cincinnati Commodore Computer Club web site
 
 ## Purchase
 
 64NIC+ models can be purchased in the [RETRO Innovations Online Store](http://store.go4retro.com/products/64NIC%2b.html).
 
-Units come with a 30 days return policy and 1 year warranty.
+Units come with a 90 days return policy and 1 year warranty.
 
 ## Technical Details
 
